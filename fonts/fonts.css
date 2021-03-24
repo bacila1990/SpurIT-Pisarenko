@@ -1,0 +1,41 @@
+/* @font-face {
+  font-family: 'FuturaBookC';
+  src: url('fonts/FuturaBookC.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FuturaDemiC';
+  src: url('fonts/FuturaDemiC.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+} */
+
+@font-face {
+  font-family: 'Quentin';
+  src: url('Quentin.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Tiempos Fine';
+  src: url('TiemposFine-Bold.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* @font-face {
+  font-family: 'Proxima Nova';
+  src: url('fonts/Proxima Nova.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Yeseva-One';
+  src: url('fonts/Yeseva-One.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+} */
